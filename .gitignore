@@ -1,0 +1,27 @@
+# Kotlin/Java/Swift build artifacts
+/build/
+/*.iml
+/.idea/
+.DS_Store
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.so
+.gradle/
+local.properties
+
+# iOS
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+*.xcuserdata
+*.ipa
+Pods/
+DerivedData/
+
+# Common
+.env
