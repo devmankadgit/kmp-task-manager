@@ -15,7 +15,7 @@ import com.example.kmptaskmanager.R
 private val LightColorScheme = lightColorScheme(
     primary = Color(0xFF0066CC),
     onPrimary = Color.White,
-    secondary = Color(0xFF03DAC6),
+    secondary = Color(0xFF04EAC6), //conflicts for demo
     onSecondary = Color.Black,
     background = Color(0xFFF6F6F6),
     onBackground = Color.Black,
